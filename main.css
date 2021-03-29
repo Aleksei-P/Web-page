@@ -548,6 +548,7 @@ template {
   box-sizing: border-box;
   transition: opacity 0.5s;
   cursor: pointer;
+  margin: 35px auto 35px auto;
 }
 
 .profile__add-button:hover {
